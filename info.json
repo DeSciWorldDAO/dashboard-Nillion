@@ -12,9 +12,9 @@
        "link": "https://www.youtube.com/watch?v=bG8n-109i0k"
    },  {"name": "Intro",
        "description": "Intro",
-       "mediaUrl": "https://i.imgur.com/wtnf4LK.jpeg﻿",       
+       "mediaUrl": "https://i.imgur.com/wtnf4LK.jpeg",       
        "source": "image",
-       "link": "https://medium.com/@Nillion_Network/next-on-nillion-the-nucleus-builders-program-45aeaf158214﻿"}
+       "link": "https://medium.com/@Nillion_Network/next-on-nillion-the-nucleus-builders-program-45aeaf158214"}
  ],
 "deleted":false,
 "primaryColor":"#0000ff",
@@ -22,7 +22,7 @@
 "coingeckoId":"",
 "snapshotId":"",
 "logo":"https://i.imgur.com/pTZcgpL.jpeg",
-"squareLogo":"https://i.imgur.com/jxXyoUW.png"
+"squareLogo":"https://i.imgur.com/jxXyoUW.png",
 "telegramLink":"",
 "discordLink":"",
 "website":"https://nillion.com",
