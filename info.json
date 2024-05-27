@@ -1,1 +1,34 @@
+{"name":"Nillion ",
+"tokenSymbol":" ",
+"DaoOS":"Snapshot",
+"address":"",
+"description":"Nillion is a public decentralized network for private storage and computation, using different privacy-enhancing technologies (PET), such as MPC and HE. The network’s aim is to decentralize trust for high value data, unlocking a range of new use cases and verticals to adopt decentralized infrastructure. The founding team behind Nillion have founded several unicorn and successful companies, including Uber, Indiegogo and two of the top 100 protocols/projects (Hedera Hashgraph and Reserve).",
+"whitePaperLink":"https://nillion.docsend.com/view/7bkgvzagr6ifhwrc",
+"gallery":[{
+       "name": "Intro",
+       "description": "Intro",
+       "mediaUrl": "https://youtu.be/bG8n-109i0k",
+       "source": "youtube",
+       "link": "https://www.youtube.com/watch?v=bG8n-109i0k"
+   },  {"name": "Intro",
+       "description": "Intro",
+       "mediaUrl": "https://i.imgur.com/wtnf4LK.jpeg﻿",       
+       "source": "image",
+       "link": "https://medium.com/@Nillion_Network/next-on-nillion-the-nucleus-builders-program-45aeaf158214﻿"},
+ ],
+"deleted":false,
+"primaryColor":"#0000ff",
+"twitterHandle":"nillionnetwork",
+"coingeckoId":"",
+"snapshotId":"",
+"logo":"https://i.imgur.com/pTZcgpL.jpeg",
+"squareLogo":"https://i.imgur.com/jxXyoUW.png"
+"telegramLink":"",
+"discordLink":"",
+"website":"https://nillion.com",
+"tokenDescription":"",
+"tokenTradeLink":"",
 
+"tags":["Decentralized computing"]
+  
+}
