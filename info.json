@@ -7,9 +7,9 @@
 "gallery":[{
        "name": "Intro",
        "description": "Intro",
-       "mediaUrl": "https://youtu.be/bG8n-109i0k",
+       "mediaUrl": "https://youtube.com/embed/bG8n-109i0k",
        "source": "youtube",
-       "link": "https://www.youtube.com/watch?v=bG8n-109i0k"
+       "link": "https://youtube.com/embed/bG8n-109i0k"
    },  {"name": "Intro",
        "description": "Intro",
        "mediaUrl": "https://i.imgur.com/wtnf4LK.jpeg",       
